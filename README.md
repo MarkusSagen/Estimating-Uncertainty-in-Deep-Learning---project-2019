@@ -44,9 +44,9 @@ python framework.py
 ------
 
 ### Links
-[Code Repo](http:google.com)   
-[Report](http:google.com)   
-[Poster](http:google.com)   
+[Code Repo](https://github.com/Noodles-321/Certainty)   
+[Report (Change link)](https://www.overleaf.com/5521335765qmyyqkdwrjxd)   
+[Poster (Change link)](https://uppsalauniversitet-my.sharepoint.com/:p:/r/personal/jiahao_lu_2199_student_uu_se1/_layouts/15/Doc.aspx?sourcedoc=%7B4051F7B6-7362-4437-8852-7A3C3E6CBBC5%7D&file=poster_15A.pptx&action=edit&mobileredirect=true&PreviousSessionID=1a20053b-9ae9-146e-ebf4-2e7774e58d70&cid=f5639975-49e5-4eae-a185-c686a65845a4)   
         
 
 
