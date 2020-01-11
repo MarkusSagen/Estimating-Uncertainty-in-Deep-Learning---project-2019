@@ -2,9 +2,12 @@
 
 
 Project in Computational Science Uppsala University 2019  
-The project compares different methods and metrics for evaluating well-calibrated certainty estimates in deep learning classification tasks, by using models using fully bayesian or approximate bayesian models.
-The Code is forked from the working directory: [Noodles-321/Certainty](https://github.com/Noodles-321/Certainty) by Jahaou Lu.
+The project compares different methods and metrics for evaluating well-calibrated certainty estimates in deep learning classification tasks, by using models using fully bayesian or approximate bayesian models.   
 
+The Code is forked from the working directory: [Noodles-321/Certainty](https://github.com/Noodles-321/Certainty) by Jahaou Lu.
+   
+   
+   
 The code can be run by executing the following commands:  
 ``bash
 cd ..
@@ -25,7 +28,8 @@ cd ..
 
 
 
-Authors:
+Authors:   
+
 [Li](https://github.com/jianbo-sudo)   
 [Jianbo.Li.4196@student.uu.se](mailto:Jianbo.Li.4196@student.uu.se)   
 [Lu](https://github.com/Noodles-321)   
