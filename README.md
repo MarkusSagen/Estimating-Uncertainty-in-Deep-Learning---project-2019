@@ -17,19 +17,22 @@ cd ..
 [Code Repo](http:google.com)   
 [Report](http:google.com)   
 [Poster](http:google.com)   
-     
-     
-     
-     
-     
-     
-     
+        
 
 
 
 
-Authors:   
 
+
+
+
+
+
+
+
+   
+#### Authors:   
+___________________________________________________________
 [Li](https://github.com/jianbo-sudo)   
 [Jianbo.Li.4196@student.uu.se](mailto:Jianbo.Li.4196@student.uu.se)   
 [Lu](https://github.com/Noodles-321)   
