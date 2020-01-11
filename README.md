@@ -9,9 +9,39 @@ The Code is forked from the working directory: [Noodles-321/Certainty](https://g
    
    
 The code can be run by executing the following commands:  
-``bash
-cd ..
-``
+### For running on GPU
+
+``` bash
+conda create --name tftorch --file requirements.txt
+```
+
+or
+
+``` bash
+conda install --yes --file requirements.txt
+```
+
+or  (for local win-64)
+
+```bash
+conda env create -f tftorch.yml
+```
+
+### For running on CPU
+
+``` bash
+conda create --name certainty_venv python=3.6 --file requirements_CPU.txt -y && conda activate certainty_venv
+```
+
+## Usage
+
+To then run the code:
+
+```bash
+python framework.py
+```
+
+------
 
 ### Links
 [Code Repo](http:google.com)   
