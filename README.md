@@ -57,16 +57,14 @@ python framework.py
 
 
 
+Markus Sagen
 
 
 
    
 #### Authors:   
 ___________________________________________________________
-[Li](https://github.com/jianbo-sudo)   
-[Jianbo.Li.4196@student.uu.se](mailto:Jianbo.Li.4196@student.uu.se)   
-[Lu](https://github.com/Noodles-321)   
-[Jiahao.Lu.2199@student.uu.se](mailto:Jiahao.Lu.2199@student.uu.se)   
-[Markus Sagen](https://github.com/MarkusSagen)   
-[Markus.John.Sagen@gmail.com](mailto:Markus.John.Sagen@gmail.com)   
+Jianbo Li - [Github](https://github.com/jianbo-sudo), [Mail](mailto:Jianbo.Li.4196@student.uu.se)   
+Jiahao Lu - [Github](https://github.com/Noodles-321), [Mail](mailto:Jiahao.Lu.2199@student.uu.se)   
+Markus Sagen - [Github](https://github.com/MarkusSagen), [Mail](mailto:Markus.John.Sagen@gmail.com)   
 
