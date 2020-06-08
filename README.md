@@ -2,8 +2,12 @@
 
 
 Project in Computational Science Uppsala University 2019  
-The project compares different methods and metrics for evaluating well-calibrated certainty estimates in deep learning classification tasks, by using models using fully bayesian or approximate bayesian models.   
-
+  
+The project compares different methods and metrics for evaluating well-calibrated certainty estimates in deep learning classification tasks, by comparing models using fully bayesian or approximate bayesian models.   
+  
+We found that the best calibration of uncertainty for deep CNNs were found when combining *Label smooting* and *Temperature scaling*. These two methods yielded better calibration than both Monte Carlo Dropout and Variational Inference based methods.   
+  
+  
 The Code is forked from the working directory: [Noodles-321/Certainty](https://github.com/Noodles-321/Certainty) by Jahaou Lu.
    
    
@@ -45,8 +49,8 @@ python framework.py
 
 ### Links
 [Code Repo](https://github.com/Noodles-321/Certainty)   
-[Report (Change link)](https://www.overleaf.com/5521335765qmyyqkdwrjxd)   
-[Poster (Change link)](https://uppsalauniversitet-my.sharepoint.com/:p:/r/personal/jiahao_lu_2199_student_uu_se1/_layouts/15/Doc.aspx?sourcedoc=%7B4051F7B6-7362-4437-8852-7A3C3E6CBBC5%7D&file=poster_15A.pptx&action=edit&mobileredirect=true&PreviousSessionID=1a20053b-9ae9-146e-ebf4-2e7774e58d70&cid=f5639975-49e5-4eae-a185-c686a65845a4)   
+[Report (Change link)](http://www.it.uu.se/edu/course/homepage/projektTDB/ht19/project15a/Project15a_report.pdf)   
+[Poster (Change link)](http://www.it.uu.se/edu/course/homepage/projektTDB/ht19/project15a/Project15a_poster.pdf)   
         
 
 
