@@ -3,4 +3,4 @@ pip==19.3.1
 matplotlib==3.1.1
 numpy==1.17.3
 keras==2.2.4
-tensorflow==1.15.0
+tensorflow==2.5.1
